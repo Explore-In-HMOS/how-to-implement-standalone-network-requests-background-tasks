@@ -1,0 +1,15 @@
+{
+  "color": [
+    { "name": "start_window_background", "value": "#000000" },
+    { "name": "bg", "value": "#000000" },
+    { "name": "surface", "value": "#16181D" },
+    { "name": "surface_hi", "value": "#22252C" },
+    { "name": "text_primary", "value": "#F5F7FA" },
+    { "name": "text_secondary", "value": "#8A919E" },
+    { "name": "wifi", "value": "#3DDC97" },
+    { "name": "cellular", "value": "#4DA3FF" },
+    { "name": "relay", "value": "#FFB547" },
+    { "name": "offline", "value": "#FF5C6C" },
+    { "name": "accent", "value": "#9B7BFF" }
+  ]
+}

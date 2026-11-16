@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Standalone network requests and background tasks on a HarmonyOS watch"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Watch-native networking demo"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NetSolo"
+    },
+    {
+      "name": "perm_internet_reason",
+      "value": "Fetch data directly over the watch's own Wi-Fi or cellular link"
+    },
+    {
+      "name": "perm_netinfo_reason",
+      "value": "Check which network the watch is on before sending requests"
+    },
+    {
+      "name": "perm_background_reason",
+      "value": "Keep syncing data while the app is in the background"
+    }
+  ]
+}
